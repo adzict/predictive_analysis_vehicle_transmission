@@ -31,3 +31,11 @@ cylinders
 - gear - number of gears in the vehicle's transmission
 - carb - the number of carburetors in the vehicle which can impact engine performance and fuel
 efficiency
+
+## Running the Jupyter Notebook
+
+Refer to the .ipynb file in the repo in order to run in in your environment. 
+
+## Images
+
+Images were used to create reports that can be found in the deliverables folder.
