@@ -12,22 +12,22 @@ being predictive modeling recommendations.
 The source of the dataset is from the 1974 Motor Trend US magazine, and comprises fuel consumption and
 10 aspects of automobile design and performance for 32 automobiles (1973–74 models).
 
-● am - transmission type, automatic or manual
-● mpg - fuel efficiency that indicates how many miles the vehicle can travel on a single gallon of fuel
-● cyl - the number of cylinders in the vehicle's engine, where the higher number means a more
+- am - transmission type, automatic or manual
+- mpg - fuel efficiency that indicates how many miles the vehicle can travel on a single gallon of fuel
+- cyl - the number of cylinders in the vehicle's engine, where the higher number means a more
 powerful engine
-● disp - engine displacement which indicates the volume of engine’s cylinders, where a higher
+- disp - engine displacement which indicates the volume of engine’s cylinders, where a higher
 displacement usually indicates a more powerful engine
-● hp - horsepower refers to the power output of the engine
-● drat - the rear axle ratio represents the ratio of the number of revolutions of the drive shaft to the
+- hp - horsepower refers to the power output of the engine
+- drat - the rear axle ratio represents the ratio of the number of revolutions of the drive shaft to the
 rear axle's revolutions, where a higher ratio leads to higher acceleration, but lower ratio leads to
 better fuel efficiency at higher speeds
-● wt - weight signifies vehicle’s mass, and it influences many aspects of vehicle performance: fuel
+- wt - weight signifies vehicle’s mass, and it influences many aspects of vehicle performance: fuel
 efficiency, handling, power
-● qsec - the time it takes for the vehicle to cover a quarter-mile distance from a standstill, measuring
+- qsec - the time it takes for the vehicle to cover a quarter-mile distance from a standstill, measuring
 acceleration, where lower qsec indicates quicker acceleration
-● vs - engine types shown as V-shaped (V-engine) or straight (inline) based on the configuration of
+- vs - engine types shown as V-shaped (V-engine) or straight (inline) based on the configuration of
 cylinders
-● gear - number of gears in the vehicle's transmission
-● carb - the number of carburetors in the vehicle which can impact engine performance and fuel
+- gear - number of gears in the vehicle's transmission
+- carb - the number of carburetors in the vehicle which can impact engine performance and fuel
 efficiency
